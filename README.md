@@ -1,7 +1,7 @@
 
 # Programação Orientada a Objeto
 
-![POO](https://github.com/ViniciusKanh/Programacao-Orientada-a-Objeto/blob/main/1*LRjLAzWqaLiYl4N5DZH8Kg.gif)
+![POO](https://github.com/ViniciusKanh/Programacao-Orientada-a-Objeto/blob/main/8NkOQ.gif)
 
 ## Linguagem JAVA.
 
